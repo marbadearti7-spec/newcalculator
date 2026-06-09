@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: black;
+    text-align: center;
+    font-family: Arial;
+}
+
+input, select, button{
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+button{
+    background-color: cyan;
+    color: black;
+}
